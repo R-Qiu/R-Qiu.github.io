@@ -12,7 +12,7 @@ author_profile: true
 {: style="margin-bottom: 0.35em;" }
 
 <details>
-<summary style="cursor: pointer;">Abstract</summary>
+<summary style="cursor: pointer; color: var(--global-link-color);">Abstract</summary>
 <p>Child maltreatment has lasting consequences, but little is known about how flexible workplace protections affect child safety. This paper examines whether paid sick leave (PSL) mandates reduce reported maltreatment. Using incident-level data from the National Incident-Based Reporting System from 2007 to 2019 and an event study design, I find that PSL mandates lead to an annual 10 percent decline in reported child victims per agency, driven primarily by reductions in physical abuse. The effects are larger for cases involving female offenders and differ by victim gender: boys are less likely to experience physical abuse, while girls are less likely to experience sexual abuse. The impacts are greatest among Black children and in counties with higher poverty and lower median income. Mechanism analyses suggest two key pathways: limited exposure to higher-risk male caregivers and improved maternal well-being through greater financial security and health.</p>
 </details>
 
@@ -33,7 +33,7 @@ author_profile: true
 {: style="margin-bottom: 0.35em;" }
 
 <details>
-<summary style="cursor: pointer;">Abstract</summary>
+<summary style="cursor: pointer; color: var(--global-link-color);">Abstract</summary>
 <p>This paper investigates whether and how college instructors’ implicit gender biases affect student achievement, with particular attention to female students and persistence in STEM fields. Using administrative data from a top-tier public university (2013–2024) linked to faculty responses on the Gender-Science Implicit Association Test (IAT), we examine how unconscious gender attitudes shape disparities in course grades, GPA, major selection, and time to graduation. We address three questions: (1) Do instructors’ implicit gender attitudes affect student academic outcomes and STEM persistence? (2) Are these effects heterogeneous across student subgroups, including women first-generation students, and underrepresented minorities? (3) How does implicit faculty bias contribute to persistent gender gaps in academic and professional fields? Preliminary findings reveal that female students taught by instructors with stronger implicit gender bias are more likely to deviate from their declared majors and less likely to graduate on time. These results carry important implications for faculty development, bias-awareness initiatives, and inclusive pedagogy, and shed light on how implicit gender bias may reinforce broader disparities in STEM participation and the labor market.</p>
 </details>
 
@@ -43,7 +43,7 @@ author_profile: true
 {: style="margin-bottom: 0.35em;" }
 
 <details>
-<summary style="cursor: pointer;">Abstract</summary>
+<summary style="cursor: pointer; color: var(--global-link-color);">Abstract</summary>
 <p>The US tax system is not marriage-neutral, creating incentives and disincentives for marriage. This paper re-examines the impact of marriage tax bonus and penalty on flows into and out of marriage. We calculate the ratio of marriage bonuses and after-tax income for each couple (MB-to-income ratio), which measures the relative value of marriage bonus and penalty faced by the family and thus allows us to set apart the effects on couples of different income levels. To cope with the empirical challenges that marriage bonus and penalty are endogenous to couples’ decisions on marital status, we create an instrument that captures the exogenous changes in MB-to-income ratio. Using a whole representative sample of couples in each year, we calculate the couple’s MB-to-income ratio under each states tax policy and then take the averages at the level of women’s residential state and the demographic groups defined by their race, education level, and age level. The instrument exploits the variations in marriage bonus and penalty across states and the demographic groups and captures couples’ unobservable characteristics on the basis of women’s demographic groups. We show that our instrument has no statistically significant correlation to the factors explaining the marriage market and the conditions shaping couples’ preference towards marriages. We investigate flow into and out of marriages by using the data from the Survey of Income Program and Participation. Flow data can capture couples’ behavior response to policy changes and verify the asymmetric decisions of marriage entry and exit. Our results show that, for cohabitating couples, 1% increase in MB-to-income ratio leads to 0.12% increase in the likelihood of getting married. As for married couples, the elasticity of MB-to-income ratio to the likelihood of marital dissolution is -0.14%.</p>
 </details>
 
