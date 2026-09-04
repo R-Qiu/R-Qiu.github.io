@@ -11,3 +11,6 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+# Windows does not provide IANA timezone data used by Jekyll.
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
