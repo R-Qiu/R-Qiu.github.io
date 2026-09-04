@@ -28,7 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Economics<br>University of California, Riverside"
   location         : "California, U.S."
-  employer         : '<a href="https://economics.ucr.edu/">University of California, Riverside</a>'
+  employer         : "University of California, Riverside"
+  employer_url     : "https://economics.ucr.edu/"
   uri              : # URL
   email            : "zhuoyu.qiu@email.ucr.edu" 
 
