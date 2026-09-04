@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<style>
+.page__content > ul > li > ul { font-size: 0.9em; }
+</style>
+
 ## University of California, Riverside
 {: style="margin-top: 0; border-bottom: none;" }
 
