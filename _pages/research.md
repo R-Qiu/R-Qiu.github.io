@@ -18,7 +18,7 @@ author_profile: true
 
 ## Job Market Paper
 
-### Gender Peer Effects and Women’s STEM Attainment: Evidence from a U.S. University
+**Gender Peer Effects and Women’s STEM Attainment: Evidence from a U.S. University**
 
 *Draft coming soon*
 {: style="margin-bottom: 0.35em;" }
@@ -27,7 +27,7 @@ author_profile: true
 
 ## Work in Progress
 
-### Effects of Faculty Gender Attitudes on College Students' Short- and Long-Term Outcomes
+**Effects of Faculty Gender Attitudes on College Students' Short- and Long-Term Outcomes**
 
 *With [Ozkan Eren](https://ozkaneren.com/index.html), [Krzysztof Karbownik](https://sites.google.com/site/kkarbownik/), and [Ruinan Zhao](https://ruinan-zhao.github.io/)*
 {: style="margin-bottom: 0.35em;" }
@@ -37,7 +37,7 @@ author_profile: true
 <p style="font-size: 0.9em;">This paper investigates whether and how college instructors’ implicit gender biases affect student achievement, with particular attention to female students and persistence in STEM fields. Using administrative data from a top-tier public university (2013–2024) linked to faculty responses on the Gender-Science Implicit Association Test (IAT), we examine how unconscious gender attitudes shape disparities in course grades, GPA, major selection, and time to graduation. We address three questions: (1) Do instructors’ implicit gender attitudes affect student academic outcomes and STEM persistence? (2) Are these effects heterogeneous across student subgroups, including women first-generation students, and underrepresented minorities? (3) How does implicit faculty bias contribute to persistent gender gaps in academic and professional fields? Preliminary findings reveal that female students taught by instructors with stronger implicit gender bias are more likely to deviate from their declared majors and less likely to graduate on time. These results carry important implications for faculty development, bias-awareness initiatives, and inclusive pedagogy, and shed light on how implicit gender bias may reinforce broader disparities in STEM participation and the labor market.</p>
 </details>
 
-### The Impact of Marriage Tax Bonus and Penalty on Marital Decisions in the U.S.
+**The Impact of Marriage Tax Bonus and Penalty on Marital Decisions in the U.S.**
 
 *With [Zhe Yang](https://sites.google.com/view/zheyang/home?authuser=0)*
 {: style="margin-bottom: 0.35em;" }
