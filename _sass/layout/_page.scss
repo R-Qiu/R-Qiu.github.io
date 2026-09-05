@@ -19,7 +19,8 @@
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    width: 78.5%;
+    padding-left: 0;
   }
 
   .page__inner-wrap {
@@ -48,7 +49,7 @@
 }
 
 .page__content {
-  font-size: calc(1.2rem + 0.6pt);
+  font-size: 20px;
 
   .name-chinese {
     font-family: "KaiTi", "STKaiti", "Kaiti SC", "BiauKai", serif;
@@ -63,7 +64,7 @@
   h6 { font-size: calc(0.75rem + 0.375pt); }
 
   .compact-section-heading {
-    font-size: calc(1.25rem - 1.5pt);
+    font-size: 22px;
   }
 
   h2 {
