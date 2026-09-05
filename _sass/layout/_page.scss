@@ -49,6 +49,14 @@
 }
 
 .page__content {
+  font-size: calc(1rem + 0.5pt);
+
+  h1 { font-size: $type-size-1; }
+  h2 { font-size: $type-size-2; }
+  h3 { font-size: $type-size-3; }
+  h4 { font-size: $type-size-4; }
+  h5 { font-size: $type-size-5; }
+  h6 { font-size: $type-size-6; }
 
   h2 {
     padding-bottom: 0.5em;
