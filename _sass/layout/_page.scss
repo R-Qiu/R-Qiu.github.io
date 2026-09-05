@@ -67,14 +67,6 @@
     font-size: 22.5px;
   }
 
-  .wip-item-spacing {
-    margin-bottom: $indent-var;
-
-    > p:last-child {
-      margin-bottom: 0;
-    }
-  }
-
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);

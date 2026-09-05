@@ -28,7 +28,7 @@
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li class="author__desktop">{% if author.employer_url %}<a href="{{ author.employer_url }}" style="display: flex; align-items: baseline; white-space: nowrap;"><i class="fas fa-fw fa-building-columns icon-pad-right" style="flex-shrink: 0;" aria-hidden="true"></i><span>{{ author.employer }}</span></a>{% else %}<i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}{% endif %}</li>
+        <li class="author__desktop">{% if author.employer_url %}<a href="{{ author.employer_url }}" style="display: flex; align-items: baseline; white-space: nowrap;"><i class="fas fa-fw fa-building-columns icon-pad-right" style="flex-shrink: 0;" aria-hidden="true"></i><span class="sidebar-institution">{{ author.employer }}</span></a>{% else %}<i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i><span class="sidebar-institution">{{ author.employer }}</span>{% endif %}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
