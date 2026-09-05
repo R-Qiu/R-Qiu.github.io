@@ -27,7 +27,7 @@ author_profile: true
 ## Pedagogical Training
 {: class="compact-section-heading" style="border-bottom: none;" }
 
-- **[Curriculum Design Institute](https://badges.ucr.edu/94f2f719-a52e-4ea5-9ef9-75d4895941e4#acc.SbEhsWIf)**, *University of California, Riverside*
+- [Curriculum Design Institute](https://badges.ucr.edu/94f2f719-a52e-4ea5-9ef9-75d4895941e4#acc.SbEhsWIf), *University of California, Riverside*
   - Professional development program focused on student-centered curriculum development, assessment alignment, and instructional methodology.
 
 ---
