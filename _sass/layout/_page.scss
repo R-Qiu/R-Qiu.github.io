@@ -51,6 +51,10 @@
 .page__content {
   font-size: calc(1rem + 0.5pt);
 
+  .name-chinese {
+    font-family: "KaiTi", "STKaiti", "Kaiti SC", "BiauKai", serif;
+  }
+
   h1 { font-size: $type-size-1; }
   h2 { font-size: $type-size-2; }
   h3 { font-size: $type-size-3; }

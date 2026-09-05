@@ -15,7 +15,7 @@ I am a Ph.D. Candidate in Economics at the University of California, Riverside.
 
 My research focuses on applied microeconomics, with specializations in labor economics and the economics of education. I study human capital accumulation in educational settings, child and family well-being, and the effects of public policies. I use large-scale administrative data and causal inference methods to examine these topics.
 
-My name, Zhuoyu Qiu, is pronounced “Jwo-yoo Chyo.” I also go by Rachel.
+My name, Zhuoyu Qiu (<span class="name-chinese" lang="zh-Hans">丘卓瑜</span>), is pronounced “Jwo-yoo Chyo.” I also go by Rachel.
 
 You can find my CV [here](/files/Job_Market_CV.pdf).
 
