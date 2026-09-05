@@ -219,6 +219,13 @@
   margin: 0;
   white-space: nowrap;
 
+  a,
+  a:hover,
+  a:visited {
+    color: inherit;
+    text-decoration: none;
+  }
+
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
