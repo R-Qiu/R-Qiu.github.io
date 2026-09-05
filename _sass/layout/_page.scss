@@ -61,6 +61,10 @@
   h5 { font-size: $type-size-5; }
   h6 { font-size: $type-size-6; }
 
+  .research-section-heading {
+    font-size: calc(1.25rem - 0.5pt);
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);
