@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zhuoyu Qiu"
+title                    : "Zhuoyu (Rachel) Qiu"
 title_separator          : "-"
-name                     : &name "Zhuoyu Qiu"
-description              : &description "Academic website of Zhuoyu Qiu, Ph.D. Candidate in Economics at the University of California, Riverside."
+name                     : &name "Zhuoyu (Rachel) Qiu"
+description              : &description "Academic website of Zhuoyu (Rachel) Qiu, Ph.D. Candidate in Economics at the University of California, Riverside."
 url                      : https://r-qiu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "R-Qiu/R-Qiu.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Zhuoyu Qiu"
+  name             : "Zhuoyu (Rachel) Qiu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Economics<br>University of California, Riverside"
   location         : "California, U.S."
@@ -145,7 +145,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : "/images/profile.jpg"
-og_description           : "Zhuoyu Qiu, Ph.D. Candidate in Economics at the University of California, Riverside."
+og_description           : "Zhuoyu (Rachel) Qiu, Ph.D. Candidate in Economics at the University of California, Riverside."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
