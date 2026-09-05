@@ -205,6 +205,10 @@
   .visible-links {
     display: table;
 
+    a {
+      font-size: 19px;
+    }
+
     @include breakpoint(30em) {
       display: flex;
       align-items: center;
