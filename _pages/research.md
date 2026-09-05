@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Publication
-{: class="research-section-heading" style="margin-top: 0;" }
+{: class="compact-section-heading" style="margin-top: 0;" }
 
 **Qiu, Z.** (2026). [Punching Out, Not Down: The Impact of Paid Sick Leave on Child Maltreatment](https://www.sciencedirect.com/science/article/pii/S0927537126001107?via%3Dihub#tbl1). *Labour Economics*, Advance online publication.
 {: style="margin-bottom: 0.35em;" }
@@ -17,9 +17,10 @@ author_profile: true
 </details>
 
 ## Job Market Paper
-{: class="research-section-heading" }
+{: class="compact-section-heading" }
 
 **Gender Peer Effects and Women’s STEM Attainment: Evidence from a U.S. University**
+{: style="margin-bottom: 0.35em;" }
 
 *Draft coming soon*
 {: style="margin-bottom: 0.35em;" }
@@ -27,9 +28,10 @@ author_profile: true
 <p style="font-size: 0.9em;">This paper examines the effects of peer gender composition on students’ academic progress using administrative records for freshmen entering a top-tier research university between 2016 and 2023. I focus on introductory mathematics courses taken in the entry quarter, which provide a foundation for subsequent coursework, and examine both course completion and broader first-quarter academic progress. The identification strategy exploits idiosyncratic variation in female peer share across teaching sections within the same math course. The baseline estimates indicate that a 10-percentage-point increase in female peer share raises female students’ probability of completing introductory mathematics by 1.6 percentage points and increases the share of first-quarter courses completed by the same magnitude. These findings are robust to controlling for peer gender composition in other courses and excluding cohorts entering during the COVID-19 pandemic. The improvements in academic progress are concentrated among female students who declared a STEM major at entry. Further evidence suggests that greater exposure to female classmates also increases women’s likelihood of graduating with a STEM degree. Together, these findings highlight the role of classroom gender composition in supporting women’s early academic progress and subsequent STEM attainment.</p>
 
 ## Work in Progress
-{: class="research-section-heading" }
+{: class="compact-section-heading" }
 
 **Effects of Faculty Gender Attitudes on College Students' Short- and Long-Term Outcomes**
+{: style="margin-bottom: 0.35em;" }
 
 *With [Ozkan Eren](https://ozkaneren.com/index.html), [Krzysztof Karbownik](https://sites.google.com/site/kkarbownik/), and [Ruinan Zhao](https://ruinan-zhao.github.io/)*
 {: style="margin-bottom: 0.35em;" }
@@ -40,6 +42,7 @@ author_profile: true
 </details>
 
 **The Impact of Marriage Tax Bonus and Penalty on Marital Decisions in the U.S.**
+{: style="margin-bottom: 0.35em;" }
 
 *With [Zhe Yang](https://sites.google.com/view/zheyang/home?authuser=0)*
 {: style="margin-bottom: 0.35em;" }
@@ -50,7 +53,7 @@ author_profile: true
 </details>
 
 ## Technical/Policy Reports
-{: class="research-section-heading" }
+{: class="compact-section-heading" }
 
 Bates, M., Bruene, S., Calderon, E. E., De La Torre, E., Freire, P., Guo, J., Hutchins, G. B., Jackson, K., Kapoor, M., Nelson, F., **Qiu, Z.**, Reese, E., Rettberg, G., and Tamayose, B. C. (2023). [The State of Work in the Inland Empire Part II: Pandemic, Polarization, Inflation, and Investment](https://ielcc.ucr.edu/research/state-work-inland-empire-part-ii-pandemic-polarization-inflation-and-investment). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
 
