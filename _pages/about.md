@@ -15,6 +15,6 @@ I am Zhuoyu Qiu (pronounced “Jwo-yoo Chyo”), a Ph.D. Candidate in Economics 
 
 My research focuses on applied microeconomics, with a specialization in labor economics and the economics of education. I study human capital accumulation in educational settings, child and family well-being, and the effects of public policies. I use large-scale administrative data and causal inference methods to examine these questions.
 
-You can find my [CV](/files/Job_Market_CV.pdf) here.
+You can find my CV [here](/files/Job_Market_CV.pdf).
 
 Feel free to contact me at [zhuoyu.qiu@email.ucr.edu](mailto:zhuoyu.qiu@email.ucr.edu).
