@@ -48,21 +48,26 @@
 }
 
 .page__content {
-  font-size: calc(1rem + 0.5pt);
+  font-size: calc(1.2rem + 0.6pt);
 
   .name-chinese {
     font-family: "KaiTi", "STKaiti", "Kaiti SC", "BiauKai", serif;
   }
 
-  h1 { font-size: $type-size-1; }
-  h2 { font-size: $type-size-2; }
-  h3 { font-size: $type-size-3; }
-  h4 { font-size: $type-size-4; }
-  h5 { font-size: $type-size-5; }
-  h6 { font-size: $type-size-6; }
+  // Preserve the previous heading sizes independently of the body-text increase.
+  h1 { font-size: calc(2.441rem + 1.2205pt); }
+  h2 { font-size: calc(1.953rem + 0.9765pt); }
+  h3 { font-size: calc(1.563rem + 0.7815pt); }
+  h4 { font-size: calc(1.25rem + 0.625pt); }
+  h5 { font-size: calc(1rem + 0.5pt); }
+  h6 { font-size: calc(0.75rem + 0.375pt); }
 
   .research-section-heading {
-    font-size: calc(1.25rem - 0.5pt);
+    font-size: calc(1.25rem - 1.5pt);
+  }
+
+  .teaching-section-heading {
+    font-size: calc(1.953rem - 0.5235pt);
   }
 
   h2 {

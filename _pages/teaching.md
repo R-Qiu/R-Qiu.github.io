@@ -11,7 +11,7 @@ author_profile: true
 </style>
 
 ## University of California, Riverside
-{: style="margin-top: 0; border-bottom: none;" }
+{: class="teaching-section-heading" style="margin-top: 0; border-bottom: none;" }
 
 - **Instructor of Record**
   - Urban Economics *(Summer 2025)*
@@ -25,7 +25,7 @@ author_profile: true
 ---
 
 ## Pedagogical Training
-{: style="border-bottom: none;" }
+{: class="teaching-section-heading" style="border-bottom: none;" }
 
 - **[Curriculum Design Institute](https://badges.ucr.edu/94f2f719-a52e-4ea5-9ef9-75d4895941e4#acc.SbEhsWIf)**, *University of California, Riverside*
   - Professional development program focused on student-centered curriculum development, assessment alignment, and instructional methodology.
@@ -33,7 +33,7 @@ author_profile: true
 ---
 
 ## Selected Comments from Students
-{: style="border-bottom: none;" }
+{: class="teaching-section-heading" style="border-bottom: none;" }
 
 > “I learned a lot about Urban economics taking this class. I was able to understand new concepts and reinforce concepts from previous courses I've taken. She is clear and lets us know what topics we should study which is helpful. Overall, I enjoyed taking this class with her over the summer.”
 
