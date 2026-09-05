@@ -27,9 +27,9 @@ author:
   name             : "Zhuoyu (Rachel) Qiu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Economics<br><span class='sidebar-institution'>University of California, Riverside</span>"
-  location         : "California, U.S."
-  employer         : "University of California, Riverside"
-  employer_url     : "https://economics.ucr.edu/"
+  location         :
+  employer         :
+  employer_url     :
   uri              : # URL
   email            : "zhuoyu.qiu@email.ucr.edu" 
 

@@ -217,11 +217,11 @@
 
 .author__bio {
   margin: 0;
+  white-space: nowrap;
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
-    white-space: nowrap;
   }
 }
 
