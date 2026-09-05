@@ -7,6 +7,7 @@ author_profile: true
 
 <style>
 .page__content > ul > li > ul { font-size: 0.9em; }
+.page__content blockquote { font-size: 0.9em; }
 </style>
 
 ## University of California, Riverside
