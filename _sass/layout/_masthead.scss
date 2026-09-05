@@ -28,7 +28,7 @@
     @include container;
     @include clearfix;
     padding: 0.5em 1em;
-    font-family: $sans-serif-narrow;
+    font-family: $global-font-family;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -57,12 +57,17 @@
 .masthead__menu-item {
   background-color: var(--global-bg-color);
   display: block;
+  font-family: $global-font-family;
   list-style-type: none;
   white-space: nowrap;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+
+    @include breakpoint(30em) {
+      margin-right: auto;
+    }
   }
 }
 

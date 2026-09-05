@@ -205,9 +205,20 @@
   .visible-links {
     display: table;
 
+    @include breakpoint(30em) {
+      display: flex;
+      align-items: center;
+      width: 100%;
+    }
+
     li {
       display: table-cell;
       vertical-align: middle;
+
+      @include breakpoint(30em) {
+        display: block;
+        flex: 0 0 auto;
+      }
 
       &:first-child {
         font-weight: bold;
