@@ -16,9 +16,9 @@ author_profile: true
 - **Instructor of Record**
   - Urban Economics *(Summer 2025)*
 - **Teaching Assistant**
-  - Introductory Econometrics *(Fall 2022, Winter 2023, Fall 2024, Winter 2025, Spring 2025, Fall 2025, Winter 2026)*
+  - Introductory Econometrics *(Fall 2022, Winter 2023, Winter 2024, Fall 2024, Winter 2025, Spring 2025, Fall 2025, Winter 2026)*
   - Statistics for Economics *(Fall 2023)*
-  - Intermediate Microeconomic Theory *(Spring 2026)*
+  - Intermediate Microeconomic Theory *(Spring 2024, Spring 2026)*
 - **Software Instructor**
   - Stata Boot Camp, Master of Public Policy Program *(July–August 2023)*
 
