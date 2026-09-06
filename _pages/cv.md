@@ -10,7 +10,7 @@ redirect_from:
 My current curriculum vitae is available below.
 
 <iframe
-  src="{{ '/files/Job_Market_CV.pdf?v=20260905b' | relative_url }}#view=FitH"
+  src="{{ '/files/Job_Market_CV.pdf?v=20260906' | relative_url }}#view=FitH"
   title="Zhuoyu Qiu — Curriculum Vitae"
   width="100%"
   height="800"
