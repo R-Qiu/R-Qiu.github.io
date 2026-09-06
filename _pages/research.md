@@ -8,7 +8,7 @@ author_profile: true
 ## Publication
 {: class="compact-section-heading" style="margin-top: 0; border-bottom: none;" }
 
-Qiu, Z., 2026. [Punching out, not down: The impact of paid sick leave on child maltreatment](https://www.sciencedirect.com/science/article/pii/S0927537126001107?via%3Dihub#tbl1). *Labour Economics*, p.102958.
+Qiu, Zhuoyu. "[Punching out, not down: The impact of paid sick leave on child maltreatment](https://www.sciencedirect.com/science/article/pii/S0927537126001107?via%3Dihub#tbl1)." *Labour Economics* (2026): 102958.
 {: style="margin-bottom: 0.35em;" }
 
 <details>
@@ -61,8 +61,8 @@ Qiu, Z., 2026. [Punching out, not down: The impact of paid sick leave on child m
 ## Technical/Policy Reports
 {: class="compact-section-heading" style="border-bottom: none;" }
 
-Bates, M., Bruene, S., Calderon, E. E., De La Torre, E., Freire, P., Guo, J., Hutchins, G. B., Jackson, K., Kapoor, M., Nelson, F., **Qiu, Z.**, Reese, E., Rettberg, G., and Tamayose, B. C., 2023. [The State of Work in the Inland Empire Part II: Pandemic, Polarization, Inflation, and Investment](https://ielcc.ucr.edu/research/state-work-inland-empire-part-ii-pandemic-polarization-inflation-and-investment). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
+Bates, Michael, Eric Calderone, and Elvira De La Torre. "[The State of Work in the Inland Empire Part II: Pandemic, Polarization, Inflation, and Investment](https://ielcc.ucr.edu/research/state-work-inland-empire-part-ii-pandemic-polarization-inflation-and-investment)." (2024). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
 
-Bainiwal, T. S., Bates, M., Brookes, M., Bruene, S., Calderon, E., Carranza, N., De La Torre, E., Freire, P., Gudis, C., Guo, J., Hutchins, G. B., Jackson, K., Kapoor, M., Nelson, F., **Qiu, Z.**, Reese, E., Rettberg, G., Tamayose, B., and Tan, A., 2024. [The State of Work: Transportation, Distribution, and Logistics in the Inland Empire](https://ielcc.ucr.edu/research/state-work-transportation-distribution-and-logistics-inland-empire). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
+Bainiwal, T. S., M. Bates, M. Brookes, S. Bruene, E. Calderon, N. Carranza, E. De La Torre, P. Freire, C. Gudis, J. Guo, G. B. Hutchins, K. Jackson, M. Kapoor, F. Nelson, Zhuoyu Qiu, E. Reese, G. Rettberg, B. Tamayose, and A. Tan. "[The State of Work: Transportation, Distribution, and Logistics in the Inland Empire](https://ielcc.ucr.edu/research/state-work-transportation-distribution-and-logistics-inland-empire)." (2024). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
 
-Bates, M., Brookes, M., Bruene, S., Burnett, J., Calderon, E., Carbajal, A., De La Torre, E., Guo, J., Hutchins, G. B., Kapoor, M., Mukenge, K., Nelson, F., **Qiu, Z.**, Rana, S., Reese, E., Rettberg, G., Salam, I., and Tamayose, B., 2024. [Thrive Inland SoCal: Labor Market Analysis](https://ielcc.ucr.edu/document/cerf-labor-market-analysis-english). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
+Bates, M., M. Brookes, S. Bruene, J. Burnett, E. Calderon, A. Carbajal, E. De La Torre, J. Guo, G. B. Hutchins, M. Kapoor, K. Mukenge, F. Nelson, Zhuoyu Qiu, S. Rana, E. Reese, G. Rettberg, I. Salam, and B. Tamayose. "[Thrive Inland SoCal: Labor Market Analysis](https://ielcc.ucr.edu/document/cerf-labor-market-analysis-english)." (2024). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
