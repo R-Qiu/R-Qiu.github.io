@@ -8,7 +8,7 @@ author_profile: true
 ## Publication
 {: class="compact-section-heading" style="margin-top: 0; border-bottom: none;" }
 
-Qiu, Zhuoyu. "[Punching out, not down: The impact of paid sick leave on child maltreatment](https://www.sciencedirect.com/science/article/pii/S0927537126001107?via%3Dihub#tbl1)." *Labour Economics* (2026): 102958.
+Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Maltreatment](https://www.sciencedirect.com/science/article/pii/S0927537126001107?via%3Dihub#tbl1)." *Labour Economics* (2026): 102958.
 {: style="margin-bottom: 0.35em;" }
 
 <details>
