@@ -73,3 +73,15 @@ Bates, Michael, Eric Calderone, Elvira De La Torre, Pedro Freire, Jingyan Guo, G
 Bainiwal, Tejpaul Singh, Michael Bates, Marissa Brookes, Sara Bruene, Eric Calderone, Natalie Carranza, Elvira De La Torre, Pedro Freire, Catherine Gudis, Jingyang Guo, Gregory B. Hutchins, KeAysia Jackson, Manisha Kapoor, Fatima Nelson, Zhuoyu Qiu, Ellen Reese, Gary Rettberg, Beth Tamayose, and Athena Tan. "[The State of Work: Transportation, Distribution, and Logistics in the Inland Empire](https://ielcc.ucr.edu/research/state-work-transportation-distribution-and-logistics-inland-empire)." (2024). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
 
 Bates, Michael, Marissa Brookes, Sara Bruene, John Burnett, Eric Calderone, Aranzazu Carbajal, Elvira De La Torre, Jingyan Guo, Gregory B. Hutchins, Manisha Kapoor, Metia Mukenge, Fatima Nelson, Zhuoyu Qiu, Sonia Rana, Ellen Reese, Gary Rettberg, Indiana Salam, and Beth Tamayose. "[Thrive Inland SoCal: Labor Market Analysis](https://ielcc.ucr.edu/thrive-inland-socal-labor-market-analysis)." (2024). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
+
+<div style="font-size: 18px;">
+  <h3 style="font-size: 18px; margin-top: 1.3em; margin-bottom: 0.5em;">Selected Research Dissemination</h3>
+  <ul style="font-size: 18px;">
+    <li>Human Relations Commission, City of Riverside — Riverside, California · July 25, 2024</li>
+    <li>James Irvine Foundation Community Convening — The Cheech, Riverside, California · July 9, 2024</li>
+    <li>Inland Empire Labor Council Strategic Planning Retreat — Ontario, California · April 29, 2024</li>
+    <li>Center for Community Action and Environmental Justice Conference — California State University, San Bernardino, California · April 4, 2024</li>
+    <li>Teamsters Local 1932 Training Center — San Bernardino, California · February 28, 2024</li>
+    <li>University of California, Riverside — Riverside, California · November 15, 2023</li>
+  </ul>
+</div>
