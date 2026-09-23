@@ -127,8 +127,8 @@
 
   .publication-abstract__figure {
     float: right;
-    width: 48%;
-    max-width: 460px;
+    width: 55%;
+    max-width: 540px;
     margin: 0.25em 0 0.65em 1em;
 
     img {
@@ -136,6 +136,7 @@
       width: 100%;
       height: auto;
       border: 1px solid var(--global-border-color);
+      cursor: zoom-in;
     }
 
     @include breakpoint(max-width $small) {
