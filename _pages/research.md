@@ -73,23 +73,23 @@ Bates, Michael, Eric Calderone, Elvira De La Torre, Pedro Freire, Jingyan Guo, G
 
 <details class="publication-abstract">
 <summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Summary</span></summary>
-<p style="font-size: 0.9em;">This report examines the Transportation, Distribution, and Logistics (TDL) sector's impact on the Inland Empire, analyzing employment trends, working conditions, and environmental effects on surrounding communities. It calls for policy interventions to strengthen labor standards, arguing that the region's economic growth from TDL should be balanced against worker welfare and community well-being.</p>
+<p style="font-size: 0.9em; margin-bottom: 0;">This report examines the Transportation, Distribution, and Logistics (TDL) sector's impact on the Inland Empire, analyzing employment trends, working conditions, and environmental effects on surrounding communities. It calls for policy interventions to strengthen labor standards, arguing that the region's economic growth from TDL should be balanced against worker welfare and community well-being.</p>
 </details>
 
 Bainiwal, Tejpaul Singh, Michael Bates, Marissa Brookes, Sara Bruene, Eric Calderone, Natalie Carranza, Elvira De La Torre, Pedro Freire, Catherine Gudis, Jingyang Guo, Gregory B. Hutchins, KeAysia Jackson, Manisha Kapoor, Fatima Nelson, Zhuoyu Qiu, Ellen Reese, Gary Rettberg, Beth Tamayose, and Athena Tan. "[The State of Work: Transportation, Distribution, and Logistics in the Inland Empire](https://ielcc.ucr.edu/research/state-work-transportation-distribution-and-logistics-inland-empire)." (2024). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
-{: style="margin-bottom: 0.35em;" }
+{: style="margin-top: 1.3em; margin-bottom: 0.35em;" }
 
 <details class="publication-abstract">
 <summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Summary</span></summary>
-<p style="font-size: 0.9em;">This report provides a snapshot of the labor market and working conditions in the Inland Empire (IE). We document how changes over the last five years, including those related to investment, inflation, and the COVID-19 pandemic, have impacted workers’ employment outcomes, working conditions, and well-being. This analysis marries diverse perspectives from personal narratives from workers collected through in-depth interviews (collected in English and Spanish) with a vast array of quantitative data on labor market conditions.</p>
+<p style="font-size: 0.9em; margin-bottom: 0;">This report provides a snapshot of the labor market and working conditions in the Inland Empire (IE). We document how changes over the last five years, including those related to investment, inflation, and the COVID-19 pandemic, have impacted workers’ employment outcomes, working conditions, and well-being. This analysis marries diverse perspectives from personal narratives from workers collected through in-depth interviews (collected in English and Spanish) with a vast array of quantitative data on labor market conditions.</p>
 </details>
 
 Bates, Michael, Marissa Brookes, Sara Bruene, John Burnett, Eric Calderone, Aranzazu Carbajal, Elvira De La Torre, Jingyan Guo, Gregory B. Hutchins, Manisha Kapoor, Metia Mukenge, Fatima Nelson, Zhuoyu Qiu, Sonia Rana, Ellen Reese, Gary Rettberg, Indiana Salam, and Beth Tamayose. "[Thrive Inland SoCal: Labor Market Analysis](https://ielcc.ucr.edu/thrive-inland-socal-labor-market-analysis)." (2024). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
-{: style="margin-bottom: 0.35em;" }
+{: style="margin-top: 1.3em; margin-bottom: 0.35em;" }
 
 <details class="publication-abstract">
 <summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Summary</span></summary>
-<p style="font-size: 0.9em;">This report analyzes the labor market across Riverside and San Bernardino Counties, identifying the financial, social, educational, and environmental barriers workers face in accessing quality employment. It also surveys existing “high-road” workforce programs aimed at improving job quality and expanding worker access to better opportunities.</p>
+<p style="font-size: 0.9em; margin-bottom: 0;">This report analyzes the labor market across Riverside and San Bernardino Counties, identifying the financial, social, educational, and environmental barriers workers face in accessing quality employment. It also surveys existing “high-road” workforce programs aimed at improving job quality and expanding worker access to better opportunities.</p>
 </details>
 
 <div style="font-size: 18px;">
