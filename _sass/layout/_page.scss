@@ -117,6 +117,35 @@
     font-size: $type-size-6;
   }
 
+  .publication-abstract {
+    &::after {
+      display: block;
+      clear: both;
+      content: "";
+    }
+  }
+
+  .publication-abstract__figure {
+    float: right;
+    width: 48%;
+    max-width: 460px;
+    margin: 0.25em 0 0.65em 1em;
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border: 1px solid var(--global-border-color);
+    }
+
+    @include breakpoint(max-width $small) {
+      float: none;
+      width: 100%;
+      max-width: none;
+      margin: 0.5em 0 0.75em;
+    }
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
