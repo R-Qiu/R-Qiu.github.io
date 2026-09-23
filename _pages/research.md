@@ -70,9 +70,24 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 
 Bates, Michael, Eric Calderone, Elvira De La Torre, Pedro Freire, Jingyan Guo, Gregory B. Hutchins, KeAysia Jackson, Manisha Kapoor, Fatima Nelson, Zhuoyu Qiu, Ellen Reese, Gary Rettberg, and Beth Tamayose. "[The State of Work in the Inland Empire Part II: Pandemic, Polarization, Inflation, and Investment](https://ielcc.ucr.edu/research/state-work-inland-empire-part-ii-pandemic-polarization-inflation-and-investment)." (2024). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
 
+<details class="publication-abstract">
+<summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Summary</span></summary>
+<p style="font-size: 0.9em;">This report examines the Transportation, Distribution, and Logistics (TDL) sector's impact on the Inland Empire, analyzing employment trends, working conditions, and environmental effects on surrounding communities. It calls for policy interventions to strengthen labor standards, arguing that the region's economic growth from TDL should be balanced against worker welfare and community well-being.</p>
+</details>
+
 Bainiwal, Tejpaul Singh, Michael Bates, Marissa Brookes, Sara Bruene, Eric Calderone, Natalie Carranza, Elvira De La Torre, Pedro Freire, Catherine Gudis, Jingyang Guo, Gregory B. Hutchins, KeAysia Jackson, Manisha Kapoor, Fatima Nelson, Zhuoyu Qiu, Ellen Reese, Gary Rettberg, Beth Tamayose, and Athena Tan. "[The State of Work: Transportation, Distribution, and Logistics in the Inland Empire](https://ielcc.ucr.edu/research/state-work-transportation-distribution-and-logistics-inland-empire)." (2024). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
 
+<details class="publication-abstract">
+<summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Summary</span></summary>
+<p style="font-size: 0.9em;">This report provides a snapshot of the labor market and working conditions in the Inland Empire (IE). We document how changes over the last five years, including those related to investment, inflation, and the COVID-19 pandemic, have impacted workers’ employment outcomes, working conditions, and well-being. This analysis marries diverse perspectives from personal narratives from workers collected through in-depth interviews (collected in English and Spanish) with a vast array of quantitative data on labor market conditions.</p>
+</details>
+
 Bates, Michael, Marissa Brookes, Sara Bruene, John Burnett, Eric Calderone, Aranzazu Carbajal, Elvira De La Torre, Jingyan Guo, Gregory B. Hutchins, Manisha Kapoor, Metia Mukenge, Fatima Nelson, Zhuoyu Qiu, Sonia Rana, Ellen Reese, Gary Rettberg, Indiana Salam, and Beth Tamayose. "[Thrive Inland SoCal: Labor Market Analysis](https://ielcc.ucr.edu/thrive-inland-socal-labor-market-analysis)." (2024). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
+
+<details class="publication-abstract">
+<summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Summary</span></summary>
+<p style="font-size: 0.9em;">This report analyzes the labor market across Riverside and San Bernardino Counties, identifying the financial, social, educational, and environmental barriers workers face in accessing quality employment. It also surveys existing “high-road” workforce programs aimed at improving job quality and expanding worker access to better opportunities.</p>
+</details>
 
 <div style="font-size: 18px;">
   <h3 style="font-size: 18px; margin-top: 1.3em; margin-bottom: 0.5em;">Public Engagement &amp; Briefings</h3>
