@@ -8,15 +8,10 @@ author_profile: true
 ## Publication
 {: class="compact-section-heading" style="margin-top: 0; border-bottom: none;" }
 
-Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Maltreatment](https://www.sciencedirect.com/science/article/pii/S0927537126001107?via%3Dihub#tbl1)." *Labour Economics* (2026): 102958.
+Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Maltreatment](https://www.sciencedirect.com/science/article/pii/S0927537126001107?via%3Dihub#tbl1)." *Labour Economics* (2026): 102958. <span style="font-size: 18px;">[<a href="{{ '/files/Paid_Sick_Leave_Slides.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Slides (PDF, opens in a new tab)">Slides</a>] [<a href="{{ '/files/Paid_Sick_Leave_Poster.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Poster (PDF, opens in a new tab)">Poster</a>]</span>
 {: style="margin-bottom: 0.35em;" }
 
-<div style="font-size: 18px; margin: 0 0 0.45em;">
-  <a class="btn btn--primary" style="font-size: 18px;" href="{{ '/files/Paid_Sick_Leave_Slides.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Slides (PDF, opens in a new tab)">Slides</a>
-  <a class="btn btn--primary" style="font-size: 18px;" href="{{ '/files/Paid_Sick_Leave_Poster.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Poster (PDF, opens in a new tab)">Poster</a>
-</div>
-
-<p style="font-size: 18px; margin-bottom: 0.35em;">Presented at: SEA 2025, APPAM 2025, ACLEC 2025, CEA 2025, ISCLE 2025</p>
+<p style="font-size: 18px; margin-bottom: 0.35em;">Presented at: SEA 2025, APPAM 2025, ACLEC 2025 Poster sessions, CEA 2025, ISCLE 2025</p>
 
 <details>
 <summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Abstract</span></summary>
