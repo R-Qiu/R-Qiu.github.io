@@ -69,6 +69,7 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 {: class="compact-section-heading" style="border-bottom: none;" }
 
 Bates, Michael, Eric Calderone, Elvira De La Torre, Pedro Freire, Jingyan Guo, Gregory B. Hutchins, KeAysia Jackson, Manisha Kapoor, Fatima Nelson, Zhuoyu Qiu, Ellen Reese, Gary Rettberg, and Beth Tamayose. "[The State of Work in the Inland Empire Part II: Pandemic, Polarization, Inflation, and Investment](https://ielcc.ucr.edu/research/state-work-inland-empire-part-ii-pandemic-polarization-inflation-and-investment)." (2024). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
+{: style="margin-bottom: 0.35em;" }
 
 <details class="publication-abstract">
 <summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Summary</span></summary>
@@ -76,6 +77,7 @@ Bates, Michael, Eric Calderone, Elvira De La Torre, Pedro Freire, Jingyan Guo, G
 </details>
 
 Bainiwal, Tejpaul Singh, Michael Bates, Marissa Brookes, Sara Bruene, Eric Calderone, Natalie Carranza, Elvira De La Torre, Pedro Freire, Catherine Gudis, Jingyang Guo, Gregory B. Hutchins, KeAysia Jackson, Manisha Kapoor, Fatima Nelson, Zhuoyu Qiu, Ellen Reese, Gary Rettberg, Beth Tamayose, and Athena Tan. "[The State of Work: Transportation, Distribution, and Logistics in the Inland Empire](https://ielcc.ucr.edu/research/state-work-transportation-distribution-and-logistics-inland-empire)." (2024). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
+{: style="margin-bottom: 0.35em;" }
 
 <details class="publication-abstract">
 <summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Summary</span></summary>
@@ -83,6 +85,7 @@ Bainiwal, Tejpaul Singh, Michael Bates, Marissa Brookes, Sara Bruene, Eric Calde
 </details>
 
 Bates, Michael, Marissa Brookes, Sara Bruene, John Burnett, Eric Calderone, Aranzazu Carbajal, Elvira De La Torre, Jingyan Guo, Gregory B. Hutchins, Manisha Kapoor, Metia Mukenge, Fatima Nelson, Zhuoyu Qiu, Sonia Rana, Ellen Reese, Gary Rettberg, Indiana Salam, and Beth Tamayose. "[Thrive Inland SoCal: Labor Market Analysis](https://ielcc.ucr.edu/thrive-inland-socal-labor-market-analysis)." (2024). *Inland Empire Labor and Community Center and Center for Social Innovation, University of California, Riverside*.
+{: style="margin-bottom: 0.35em;" }
 
 <details class="publication-abstract">
 <summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Summary</span></summary>
