@@ -11,6 +11,13 @@ author_profile: true
 Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Maltreatment](https://www.sciencedirect.com/science/article/pii/S0927537126001107?via%3Dihub#tbl1)." *Labour Economics* (2026): 102958.
 {: style="margin-bottom: 0.35em;" }
 
+<div style="font-size: 18px; margin: 0 0 0.45em;">
+  <a class="btn btn--primary" style="font-size: 18px;" href="{{ '/files/Paid_Sick_Leave_Slides.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Slides (PDF, opens in a new tab)">Slides</a>
+  <a class="btn btn--primary" style="font-size: 18px;" href="{{ '/files/Paid_Sick_Leave_Poster.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Poster (PDF, opens in a new tab)">Poster</a>
+</div>
+
+<p style="font-size: 18px; margin-bottom: 0.35em;">Presented at: SEA 2025, APPAM 2025, ACLEC 2025, CEA 2025, ISCLE 2025</p>
+
 <details>
 <summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Abstract</span></summary>
 <p style="font-size: 0.9em;">Child maltreatment has lasting consequences, but little is known about how flexible workplace protections affect child safety. This paper examines whether paid sick leave (PSL) mandates reduce reported maltreatment. Using incident-level data from the National Incident-Based Reporting System from 2007 to 2019 and an event study design, I find that PSL mandates lead to an annual 10 percent decline in reported child victims per agency, driven primarily by reductions in physical abuse. The effects are larger for cases involving female offenders and differ by victim gender: boys are less likely to experience physical abuse, while girls are less likely to experience sexual abuse. The impacts are greatest among Black children and in counties with higher poverty and lower median income. Mechanism analyses suggest two key pathways: limited exposure to higher-risk male caregivers and improved maternal well-being through greater financial security and health.</p>
