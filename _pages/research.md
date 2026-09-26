@@ -28,7 +28,7 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 ## Job Market Paper
 {: class="compact-section-heading" style="border-bottom: none;" }
 
-**Gender Peer Effects and Women’s STEM Attainment: Evidence from a U.S. University**
+**Gender Peer Effects and Women’s Academic Performance in Mathematics: Evidence from a U.S. University**
 {: style="margin-bottom: 0.35em;" }
 
 *Draft coming soon*
