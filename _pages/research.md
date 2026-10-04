@@ -44,7 +44,7 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 **Effects of Faculty Gender Attitudes on College Students' Short- and Long-Term Outcomes**
 {: style="margin-bottom: 0.35em;" }
 
-*With [Ozkan Eren](https://ozkaneren.com/index.html), [Radhika Bansal](https://radhika3bansal.github.io/), [Krzysztof Karbownik](https://sites.google.com/site/kkarbownik/), and [Ruinan Zhao](https://ruinan-zhao.github.io/)*
+*With [Radhika Bansal](https://radhika3bansal.github.io/), [Ozkan Eren](https://ozkaneren.com/index.html), [Krzysztof Karbownik](https://sites.google.com/site/kkarbownik/), and [Ruinan Zhao](https://ruinan-zhao.github.io/)*
 {: style="margin-bottom: 0.35em;" }
 
 <details>
