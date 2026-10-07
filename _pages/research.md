@@ -16,8 +16,8 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 <details class="publication-abstract">
 <summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Abstract</span></summary>
 <figure class="publication-abstract__figure">
-  <a href="{{ '/images/paid-sick-leave-baseline-event-study-code-update.png?v=5930ddc5687a' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the event-study figure at full size in a new tab" title="Open full-size figure">
-    <img src="{{ '/images/paid-sick-leave-baseline-event-study-code-update.png?v=5930ddc5687a' | relative_url }}" alt="Event-study estimates by year relative to local paid sick leave mandates, from six years before through three years after implementation, for four outcomes: all victimized children, physical assault, sexual assault, and intimidation. Reported child victimization declines after implementation, especially by three years after." loading="lazy" decoding="async">
+  <a href="{{ '/images/paid-sick-leave-baseline-event-study.svg' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the event-study figure at full size in a new tab" title="Open full-size figure">
+    <img src="{{ '/images/paid-sick-leave-baseline-event-study.svg' | relative_url }}" alt="Event-study estimates by year relative to local paid sick leave mandates, from six years before through three years after implementation, for four outcomes: all victimized children, physical assault, sexual assault, and intimidation. Reported child victimization declines after implementation, especially by three years after." loading="lazy" decoding="async">
   </a>
   <figcaption style="font-size: 0.9em; line-height: 1.4; text-align: center; margin-top: 0.5em;"><strong>Figure.</strong> <span class="figure-caption-title">Event Study: Effects of PSL Mandate on Reported Child Victims</span></figcaption>
 </figure>
@@ -39,14 +39,14 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 
 <div class="jmp-figures">
   <figure>
-    <a href="{{ '/images/jmp-identification.png?v=b910396ae496' | relative_url }}" target="_blank" rel="noopener" aria-label="Open Figure 1 at full size">
-      <img src="{{ '/images/jmp-identification.png?v=b910396ae496' | relative_url }}" alt="Comparison within the same course, term, and instructor, showing female peer shares of 40% and 50% and estimates for women's mathematics completion and grades." loading="lazy">
+    <a href="{{ '/images/jmp-identification.svg' | relative_url }}" target="_blank" rel="noopener" aria-label="Open Figure 1 at full size">
+      <img src="{{ '/images/jmp-identification.svg' | relative_url }}" alt="Comparison within the same course, term, and instructor, showing female peer shares of 40% and 50% and estimates for women's mathematics completion and grades." loading="lazy">
     </a>
     <figcaption><strong>Figure 1.</strong> <span class="figure-caption-title">Empirical Identification Strategy and Main Outcomes</span></figcaption>
   </figure>
   <figure>
-    <a href="{{ '/images/jmp-effects.png?v=c2fbd1c26c21' | relative_url }}" target="_blank" rel="noopener" aria-label="Open Figure 2 at full size">
-      <img src="{{ '/images/jmp-effects.png?v=c2fbd1c26c21' | relative_url }}" alt="Point estimates and intervals for mathematics outcomes among all women, women entering with and without STEM majors, and all men." loading="lazy">
+    <a href="{{ '/images/jmp-effects.svg' | relative_url }}" target="_blank" rel="noopener" aria-label="Open Figure 2 at full size">
+      <img src="{{ '/images/jmp-effects.svg' | relative_url }}" alt="Point estimates and intervals for mathematics outcomes among all women, women entering with and without STEM majors, and all men." loading="lazy">
     </a>
     <figcaption><strong>Figure 2.</strong> <span class="figure-caption-title">Effects of a 10-Percentage-Point Increase in Female Peer Share</span></figcaption>
   </figure>
