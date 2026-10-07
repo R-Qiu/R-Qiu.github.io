@@ -34,7 +34,14 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 <span style="font-size: 18px;">[<a href="https://1drv.ms/b/c/8c96e8187313d32a/IQBtLNpSYR5JRoBHENQKDwdkAWg0lhvGGW1Da3D4fSZt3EE" target="_blank" rel="noopener" aria-label="Job market paper draft on OneDrive (opens in a new tab)">Draft</a>]</span>
 {: style="margin-bottom: 0.35em;" }
 
+<div class="publication-abstract">
+<figure class="publication-abstract__figure">
+  <a href="{{ '/files/Job_Market_Paper_Illustration.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the job market paper illustration (PDF, opens in a new tab)" title="Open full-size PDF">
+    <img src="{{ '/images/job-market-paper-illustration.png' | relative_url }}" alt="Hypothetical comparison of two calculus classes with 40% and 50% female peers, illustrating an estimated 3.0-percentage-point increase in women's mathematics completion." loading="lazy" decoding="async">
+  </a>
+</figure>
 <p>Abstract: <span style="font-size: 0.9em;">Understanding how educational environments shape women’s mathematics achievement and persistence can help explain their continued underrepresentation in mathematics-intensive fields despite rising educational attainment. This paper examines the role of classroom gender composition using administrative records for freshmen entering a selective U.S. public university between 2016 and 2023. I exploit variation in female peer share across introductory mathematics classes within the same course–term–instructor group, allowing fixed effects to differ by student gender. A 10-percentage-point increase in female peer share raises women’s probability of completing introductory mathematics by approximately 3.2 percentage points and earning math grade of C- or better by approximately 3.4 percentage points. Men benefit in broader first-quarter outcomes, with limited evidence of differences in effects across genders. The findings remain robust after accounting for gender composition in other courses and excluding pandemic-entry cohorts. Benefits for women are concentrated among students who declared a STEM major at entry, while comparable positive effects do not emerge in other entry-term subjects. Longer-term estimates provide suggestive evidence of increased STEM degree attainment among students entering with a STEM major.</span></p>
+</div>
 
 ---
 
