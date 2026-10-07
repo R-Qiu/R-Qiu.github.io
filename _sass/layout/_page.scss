@@ -126,15 +126,19 @@
   }
 
   .publication-abstract__figure {
+    display: block;
     float: right;
-    width: 55%;
-    max-width: 540px;
-    margin: 0.25em 0 0.65em 1em;
+    width: 70%;
+    max-width: none;
+    margin: 0.25em 0 0.35em 1em;
+
+    figcaption { margin-bottom: 0; }
 
     img {
       display: block;
       width: 100%;
       height: auto;
+      margin-bottom: 0;
       border: 1px solid var(--global-border-color);
       cursor: zoom-in;
     }
@@ -145,6 +149,37 @@
       max-width: none;
       margin: 0.5em 0 0.75em;
     }
+  }
+
+  .jmp-figures {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1em;
+    width: 100%;
+    margin: 1em 0 1.5em;
+
+    figure { margin: 0; min-width: 0; }
+    a { display: block; }
+    img { display: block; width: 100%; height: auto; cursor: zoom-in; }
+    figcaption {
+      margin-top: 0.5em;
+      font-size: 0.9em;
+      line-height: 1.4;
+      text-align: center;
+    }
+
+    @include breakpoint(max-width $small) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .figure-caption-title {
+    font-size: 15px;
+    font-weight: normal;
+  }
+
+  .jmp-abstract {
+    line-height: 1.35em;
   }
 
   /* blockquote citations */

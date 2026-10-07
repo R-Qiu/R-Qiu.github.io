@@ -16,9 +16,10 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 <details class="publication-abstract">
 <summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Abstract</span></summary>
 <figure class="publication-abstract__figure">
-  <a href="{{ '/images/paid-sick-leave-baseline-event-study-code-update.png' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the event-study figure at full size in a new tab" title="Open full-size figure">
-    <img src="{{ '/images/paid-sick-leave-baseline-event-study-code-update.png' | relative_url }}" alt="Event-study estimates by year relative to local paid sick leave mandates, from six years before through three years after implementation, for four outcomes: all victimized children, physical assault, sexual assault, and intimidation. Reported child victimization declines after implementation, especially by three years after." loading="lazy" decoding="async">
+  <a href="{{ '/images/paid-sick-leave-baseline-event-study-code-update.png?v=71d7d282f044' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the event-study figure at full size in a new tab" title="Open full-size figure">
+    <img src="{{ '/images/paid-sick-leave-baseline-event-study-code-update.png?v=71d7d282f044' | relative_url }}" alt="Event-study estimates by year relative to local paid sick leave mandates, from six years before through three years after implementation, for four outcomes: all victimized children, physical assault, sexual assault, and intimidation. Reported child victimization declines after implementation, especially by three years after." loading="lazy" decoding="async">
   </a>
+  <figcaption style="font-size: 0.9em; line-height: 1.4; text-align: center; margin-top: 0.5em;"><strong>Figure.</strong> <span class="figure-caption-title">Event Study: Effects of PSL Mandate on Reported Child Victims</span></figcaption>
 </figure>
 <p style="font-size: 0.9em;">Child maltreatment has lasting consequences, but little is known about how flexible workplace protections affect child safety. This paper examines whether paid sick leave (PSL) mandates reduce reported maltreatment. Using incident-level data from the National Incident-Based Reporting System from 2007 to 2019 and an event study design, I find that PSL mandates lead to an annual 10 percent decline in reported child victims per agency, driven primarily by reductions in physical abuse. The effects are larger for cases involving female offenders and differ by victim gender: boys are less likely to experience physical abuse, while girls are less likely to experience sexual abuse. The impacts are greatest among Black children and in counties with higher poverty and lower median income. Mechanism analyses suggest two key pathways: limited exposure to higher-risk male caregivers and improved maternal well-being through greater financial security and health.</p>
 </details>
@@ -34,13 +35,21 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 <span style="font-size: 18px;">[<a href="https://1drv.ms/b/c/8c96e8187313d32a/IQBtLNpSYR5JRoBHENQKDwdkAWg0lhvGGW1Da3D4fSZt3EE" target="_blank" rel="noopener" aria-label="Job market paper draft on OneDrive (opens in a new tab)">Draft</a>]</span>
 {: style="margin-bottom: 0.35em;" }
 
-<div class="publication-abstract">
-<figure class="publication-abstract__figure">
-  <a href="{{ '/images/job-market-paper-illustration.png?v=50788d355000' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the job market paper illustration at full size (opens in a new tab)" title="Open full-size image">
-    <img src="{{ '/images/job-market-paper-illustration.png?v=50788d355000' | relative_url }}" alt="Hypothetical comparison of two calculus classes taught by the same professor in the same term with 40% and 50% female peers, illustrating an estimated 3.2-percentage-point increase in women's mathematics completion." loading="lazy" decoding="async">
-  </a>
-</figure>
-<p>Abstract: <span style="font-size: 0.9em;">Understanding how educational environments shape women’s mathematics achievement and persistence can help explain their continued underrepresentation in mathematics-intensive fields despite rising educational attainment. This paper examines the role of classroom gender composition using administrative records for freshmen entering a selective U.S. public university between 2016 and 2023. I exploit variation in female peer share across introductory mathematics classes within the same course–term–instructor group, allowing fixed effects to differ by student gender. A 10-percentage-point increase in female peer share raises women’s probability of completing introductory mathematics by approximately 3.2 percentage points and earning math grade of C- or better by approximately 3.4 percentage points. Men benefit in broader first-quarter outcomes, with limited evidence of differences in effects across genders. The findings remain robust after accounting for gender composition in other courses and excluding pandemic-entry cohorts. Benefits for women are concentrated among students who declared a STEM major at entry, while comparable positive effects do not emerge in other entry-term subjects. Longer-term estimates provide suggestive evidence of increased STEM degree attainment among students entering with a STEM major.</span></p>
+<p class="jmp-abstract">Abstract: <span style="font-size: 0.9em;">Understanding how educational environments shape women’s mathematics achievement and persistence can help explain their continued underrepresentation in mathematics-intensive fields despite rising educational attainment. This paper examines classroom gender composition using administrative records for freshmen entering a selective U.S. public university between 2016 and 2023. I exploit variation in female peer share across introductory mathematics classes taught by the same instructor in the same term, allowing course–term–instructor fixed effects to differ by student gender. A 10-percentage-point increase in female peer share raises women’s probability of completing introductory mathematics by approximately 3.1 percentage points and earning C- or better by approximately 3.4 percentage points. Both women and men experience improvements in broader first-quarter academic progress, with limited evidence of gender differences in the baseline effects. The findings are robust to controlling for gender composition in other courses and excluding pandemic-entry cohorts. Women’s benefits are concentrated among students who declared a STEM major at entry, while comparable positive effects do not emerge in other entry-term subjects. Longer-term estimates are consistent with increased STEM degree attainment among STEM entrants, although they remain imprecise. These findings highlight classroom gender composition as a factor supporting women’s progress through foundational university mathematics.</span></p>
+
+<div class="jmp-figures">
+  <figure>
+    <a href="{{ '/images/jmp-identification.png?v=d7f09ab01db3' | relative_url }}" target="_blank" rel="noopener" aria-label="Open Figure 1 at full size">
+      <img src="{{ '/images/jmp-identification.png?v=d7f09ab01db3' | relative_url }}" alt="Comparison within the same course, term, and instructor, showing female peer shares of 40% and 50% and estimates for women's mathematics completion and grades." loading="lazy">
+    </a>
+    <figcaption><strong>Figure 1.</strong> <span class="figure-caption-title">Empirical Identification Strategy and Main Outcomes</span></figcaption>
+  </figure>
+  <figure>
+    <a href="{{ '/images/jmp-effects.png?v=e92f453c1cb4' | relative_url }}" target="_blank" rel="noopener" aria-label="Open Figure 2 at full size">
+      <img src="{{ '/images/jmp-effects.png?v=e92f453c1cb4' | relative_url }}" alt="Point estimates and intervals for mathematics outcomes among all women, women entering with and without STEM majors, and all men." loading="lazy">
+    </a>
+    <figcaption><strong>Figure 2.</strong> <span class="figure-caption-title">Effects of a 10-Percentage-Point Increase in Female Peer Share</span></figcaption>
+  </figure>
 </div>
 
 ---
