@@ -39,8 +39,8 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 
 <div class="jmp-figures">
   <figure>
-    <a href="{{ '/images/jmp-identification.svg?v=6614f5f1d2ef' | relative_url }}" target="_blank" rel="noopener" aria-label="Open Figure 1 at full size">
-      <img src="{{ '/images/jmp-identification.svg?v=6614f5f1d2ef' | relative_url }}" alt="Comparison within the same course, term, and instructor, showing female peer shares of 40% and 50% and estimates for women's mathematics completion and grades." loading="lazy">
+    <a href="{{ '/images/jmp-identification.svg?v=14ff5fda6e6a' | relative_url }}" target="_blank" rel="noopener" aria-label="Open Figure 1 at full size">
+      <img src="{{ '/images/jmp-identification.svg?v=14ff5fda6e6a' | relative_url }}" alt="Comparison within the same course, term, and instructor, showing female peer shares of 40% and 50% and estimates for women's mathematics completion and grades." loading="lazy">
     </a>
     <figcaption><strong>Figure 1.</strong> <span class="figure-caption-title">Empirical Identification Strategy and Main Outcomes</span></figcaption>
   </figure>
