@@ -16,8 +16,8 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 <details class="publication-abstract">
 <summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Abstract</span></summary>
 <figure class="publication-abstract__figure">
-  <a href="{{ '/images/paid-sick-leave-baseline-event-study.svg' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the event-study figure at full size in a new tab" title="Open full-size figure">
-    <img src="{{ '/images/paid-sick-leave-baseline-event-study.svg' | relative_url }}" alt="Event-study estimates by year relative to local paid sick leave mandates, from six years before through three years after implementation, for four outcomes: all victimized children, physical assault, sexual assault, and intimidation. Reported child victimization declines after implementation, especially by three years after." loading="lazy" decoding="async">
+  <a href="{{ '/images/paid-sick-leave-baseline-event-study.svg?v=8dc5822b8308' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the event-study figure at full size in a new tab" title="Open full-size figure">
+    <img src="{{ '/images/paid-sick-leave-baseline-event-study.svg?v=8dc5822b8308' | relative_url }}" alt="Event-study estimates by year relative to local paid sick leave mandates, from six years before through three years after implementation, for four outcomes: all victimized children, physical assault, sexual assault, and intimidation. Reported child victimization declines after implementation, especially by three years after." loading="lazy" decoding="async">
   </a>
   <figcaption style="font-size: 0.9em; line-height: 1.4; text-align: center; margin-top: 0.5em;"><strong>Figure.</strong> <span class="figure-caption-title">Event Study: Effects of PSL Mandate on Reported Child Victims</span></figcaption>
 </figure>
