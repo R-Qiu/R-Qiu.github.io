@@ -39,14 +39,14 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 
 <div class="jmp-figures">
   <figure>
-    <a href="{{ '/images/jmp-identification.svg?v=14ff5fda6e6a' | relative_url }}" target="_blank" rel="noopener" aria-label="Open Figure 1 at full size">
-      <img src="{{ '/images/jmp-identification.svg?v=14ff5fda6e6a' | relative_url }}" alt="Comparison within the same course, term, and instructor, showing female peer shares of 40% and 50% and estimates for women's mathematics completion and grades." loading="lazy">
+    <a href="{{ '/images/jmp-identification.svg?v=0ee2a90c6f83' | relative_url }}" target="_blank" rel="noopener" aria-label="Open Figure 1 at full size">
+      <img src="{{ '/images/jmp-identification.svg?v=0ee2a90c6f83' | relative_url }}" alt="Comparison within the same course, term, and instructor, showing female peer shares of 40% and 50% and estimates for women's mathematics completion and grades." loading="lazy">
     </a>
     <figcaption><strong>Figure 1.</strong> <span class="figure-caption-title">Empirical Identification Strategy and Main Outcomes</span></figcaption>
   </figure>
   <figure>
-    <a href="{{ '/images/jmp-effects.svg?v=d615abe596ac' | relative_url }}" target="_blank" rel="noopener" aria-label="Open Figure 2 at full size">
-      <img src="{{ '/images/jmp-effects.svg?v=d615abe596ac' | relative_url }}" alt="Point estimates and intervals for mathematics outcomes among all women, women entering with STEM majors, and all men." loading="lazy">
+    <a href="{{ '/images/jmp-effects.svg?v=e7222aedb013' | relative_url }}" target="_blank" rel="noopener" aria-label="Open Figure 2 at full size">
+      <img src="{{ '/images/jmp-effects.svg?v=e7222aedb013' | relative_url }}" alt="Point estimates and intervals for mathematics outcomes among all women, women entering with STEM majors, and all men." loading="lazy">
     </a>
     <figcaption><strong>Figure 2.</strong> <span class="figure-caption-title">Effects of a 10-Percentage-Point Increase in Female Peer Share</span></figcaption>
   </figure>
