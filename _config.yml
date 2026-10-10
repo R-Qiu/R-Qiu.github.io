@@ -23,7 +23,7 @@ repository               : "R-Qiu/R-Qiu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpg?v=0dcd20b41cf0"
   name             : "Zhuoyu (Rachel) Qiu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate<br><a href='https://economics.ucr.edu/' style='color: inherit; text-decoration: none; border-bottom: 0;'>Department of Economics</a><br><a href='https://www.ucr.edu/' style='color: inherit; text-decoration: none; border-bottom: 0;'><span class='sidebar-institution'>University of California, Riverside</span></a>"
@@ -144,7 +144,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/images/profile.jpg"
+og_image                 : "/images/profile.jpg?v=0dcd20b41cf0"
 og_description           : "Zhuoyu (Rachel) Qiu, Ph.D. Candidate in Economics at the University of California, Riverside."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
