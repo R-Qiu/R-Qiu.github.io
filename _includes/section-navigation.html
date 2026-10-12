@@ -1,0 +1,16 @@
+<nav class="section-navigation" aria-label="On this page">
+  <p class="section-navigation__title">On this page</p>
+  <ul>
+    {% if page.permalink == '/research/' %}
+    <li><a href="#publication">Publication</a></li>
+    <li><a href="#job-market-paper">Job Market Paper</a></li>
+    <li><a href="#selected-work-in-progress">Selected Work in Progress</a></li>
+    <li><a href="#technicalpolicy-reports">Technical/Policy Reports</a></li>
+    {% elsif page.permalink == '/teaching/' %}
+    <li><a href="#teaching-experiences">Teaching Experiences</a></li>
+    <li><a href="#pedagogical-training">Pedagogical Training</a></li>
+    <li><a href="#selected-comments-from-students">Student Comments</a></li>
+    {% endif %}
+  </ul>
+</nav>
+<script src="{{ '/assets/js/section-navigation.js' | relative_url }}" defer></script>

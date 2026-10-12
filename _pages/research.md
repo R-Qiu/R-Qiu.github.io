@@ -3,6 +3,7 @@ layout: single
 title: ""
 permalink: /research/
 author_profile: true
+section_navigation: true
 ---
 
 ## Publication
@@ -29,13 +30,13 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 ## Job Market Paper
 {: class="compact-section-heading" style="border-bottom: none;" }
 
-**Gender Peer Effects and Women’s Academic Performance in Mathematics: Evidence from a U.S. University**
+**Gender Peer Effects and Women’s Academic Performance in Mathematics: Evidence from a U.S. University** <span style="font-size: 18px;">[<a href="/files/ClassGenderPeerEffects_WomenCollegeMath_JMP.pdf?v=c621249a3e02" target="_blank" rel="noopener" aria-label="Job market paper draft (PDF, opens in a new tab)">draft</a>]</span>
 {: style="margin-bottom: 0.35em;" }
 
-<span style="font-size: 18px;">[<a href="/files/ClassGenderPeerEffects_WomenCollegeMath_JMP.pdf?v=c621249a3e02" target="_blank" rel="noopener" aria-label="Job market paper draft (PDF, opens in a new tab)">Draft</a>]</span>
-{: style="margin-bottom: 0.35em;" }
-
-<p class="jmp-abstract">Abstract: <span style="font-size: 0.9em;">Understanding how educational environments shape women’s mathematics achievement and persistence can help explain their continued underrepresentation in mathematics-intensive fields despite rising educational attainment. This paper examines classroom gender composition using administrative records for freshmen entering a selective U.S. public university between 2016 and 2023. I exploit variation in female peer share across introductory mathematics classes taking the same course with the same instructor in the same term, allowing course–term–instructor fixed effects to differ by student gender. A 10-percentage-point increase in female peer share raises women’s probability of completing introductory mathematics by approximately 3.1 percentage points and earning C- or better by approximately 3.4 percentage points. Both women and men experience improvements in broader first-quarter academic progress, with limited evidence of gender differences in the baseline effects. The findings are robust to controlling for gender composition in other courses and excluding pandemic-entry cohorts. Benefits for women are concentrated among those who declared a STEM major at entry, while comparable positive effects do not emerge in other entry-term subjects. Longer-term estimates provide suggestive evidence of increased STEM degree attainment among women who declared a STEM major at entry. These findings highlight the role of classroom gender composition in supporting women’s progress through foundational university mathematics.</span></p>
+<details class="publication-abstract jmp-abstract-details">
+<summary style="cursor: pointer; color: var(--global-link-color);"><span style="color: var(--global-text-color);">Abstract</span></summary>
+<p class="jmp-abstract"><span style="font-size: 0.9em;">Understanding how educational environments shape women’s mathematics achievement and persistence can help explain their continued underrepresentation in mathematics-intensive fields despite rising educational attainment. This paper examines classroom gender composition using administrative records for freshmen entering a selective U.S. public university between 2016 and 2023. I exploit variation in female peer share across introductory mathematics classes taking the same course with the same instructor in the same term, allowing course–term–instructor fixed effects to differ by student gender. A 10-percentage-point increase in female peer share raises women’s probability of completing introductory mathematics by approximately 3.1 percentage points and earning C- or better by approximately 3.4 percentage points. Both women and men experience improvements in broader first-quarter academic progress, with limited evidence of gender differences in the baseline effects. The findings are robust to controlling for gender composition in other courses and excluding pandemic-entry cohorts. Benefits for women are concentrated among those who declared a STEM major at entry, while comparable positive effects do not emerge in other entry-term subjects. Longer-term estimates provide suggestive evidence of increased STEM degree attainment among women who declared a STEM major at entry. These findings highlight the role of classroom gender composition in supporting women’s progress through foundational university mathematics.</span></p>
+</details>
 
 <div class="jmp-figures">
   <figure>
@@ -51,6 +52,7 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
     <figcaption><strong>Figure 2.</strong> <span class="figure-caption-title">Effects of A 10-Percentage-Point Increase in Female Peer Share</span></figcaption>
   </figure>
 </div>
+
 
 ---
 

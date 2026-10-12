@@ -14,8 +14,9 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" role="main"{% if page.section_navigation %} class="has-section-navigation"{% endif %}>
   {% include sidebar.html %}
+  {% if page.section_navigation %}{% include section-navigation.html %}{% endif %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}

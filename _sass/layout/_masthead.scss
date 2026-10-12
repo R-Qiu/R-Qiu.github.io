@@ -19,8 +19,8 @@
     content: "";
     position: absolute;
     bottom: 0;
-    height: 1px;
-    background: var(--global-border-color);
+    height: 0.6px;
+    background: color-mix(in srgb, var(--global-text-color) 18%, var(--global-bg-color));
     width: 100%;
   }
 

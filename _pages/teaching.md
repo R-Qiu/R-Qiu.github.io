@@ -3,6 +3,7 @@ layout: single
 title: ""
 permalink: /teaching/
 author_profile: true
+section_navigation: true
 ---
 
 <style>
@@ -10,17 +11,38 @@ author_profile: true
 .page__content blockquote { font-size: 0.9em; }
 </style>
 
-## University of California, Riverside
+## Teaching Experiences
 {: class="compact-section-heading" style="margin-top: 0; border-bottom: none;" }
 
+All of the following courses taught at University of California, Riverside.
+{: style="font-size: 0.9em;" }
+
 - **Instructor of Record**
-  - Urban Economics *(Summer 2025)*
+  - Urban Economics *(Summer 2025)* [<a href="{{ '/files/ECON146_Syllabus.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Urban Economics syllabus (PDF, opens in a new tab)">syllabus</a>] [<a href="{{ '/files/ECON146_Numeric_Evaluation.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Urban Economics numeric evaluation (PDF, opens in a new tab)">numeric evaluation</a>]
 - **Teaching Assistant**
   - Introductory Econometrics *(Fall 2022, Winter 2023, Winter 2024, Fall 2024, Winter 2025, Spring 2025, Fall 2025, Winter 2026)*
   - Statistics for Economics *(Fall 2023)*
   - Intermediate Microeconomic Theory *(Spring 2024, Spring 2026)*
 - **Software Instructor**
   - Stata Boot Camp, Master of Public Policy Program *(July–August 2023)*
+{: .teaching-experience-list }
+
+
+<div class="teaching-evaluations">
+<h3 id="teaching-evaluations-title">Teaching Evaluations</h3>
+<div class="teaching-evaluations__table">
+<table aria-labelledby="teaching-evaluations-title" aria-describedby="evaluation-note">
+  <thead>
+    <tr><th scope="col">Teaching Role</th><th scope="col">Overall Effectiveness</th><th scope="col">Average Score</th></tr>
+  </thead>
+  <tbody>
+    <tr><th scope="row">Instructor Of Record</th><td>4.67 / 5</td><td>4.78 / 5</td></tr>
+    <tr><th scope="row">Teaching Assistant*</th><td>6.38 / 7</td><td>6.56 / 7</td></tr>
+  </tbody>
+</table>
+</div>
+<p id="evaluation-note">*Averages across sections with enrollment greater than 10 and response rates exceeding the campus response rate. Scores are reported on their original scales.</p>
+</div>
 
 ---
 
