@@ -7,15 +7,15 @@ section_navigation: true
 ---
 
 <style>
-.page__content > ul > li > ul { font-size: 0.9em; }
-.page__content blockquote { font-size: 0.9em; }
+.page__content > ul > li > ul { font-size: 18px; }
+.page__content blockquote { font-size: 18px; }
 </style>
 
 ## Teaching Experiences
 {: class="compact-section-heading" style="margin-top: 0; border-bottom: none;" }
 
 All of the following courses taught at University of California, Riverside.
-{: style="font-size: 0.9em;" }
+{: style="font-size: 18px;" }
 
 - **Instructor of Record**
   - Urban Economics *(Summer 2025)* [<a href="{{ '/files/ECON146_Syllabus.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Urban Economics syllabus (PDF, opens in a new tab)">syllabus</a>] [<a href="{{ '/files/ECON146_Numeric_Evaluation.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Urban Economics numeric evaluation (PDF, opens in a new tab)">numeric evaluation</a>]
