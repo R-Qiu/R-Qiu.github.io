@@ -30,9 +30,8 @@
     padding: 0.5em 1em;
     font-family: $global-font-family;
 
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
+    width: 100%;
+    max-width: none;
 
     nav {
       z-index: 10;
