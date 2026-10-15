@@ -514,59 +514,53 @@
     }
   }
 }
-// Keep the original content inside the masthead width, with navigation in the outer margin.
+// Share the homepage container and column widths; navigation uses the outer margin.
 @media (min-width: 925px) {
-  #main.has-section-navigation > .sidebar {
-    padding-top: 0 !important; // The theme's resize handler adds this inline.
-  }
   .has-section-navigation .page__inner-wrap > header { display: none; }
-}
-@media (min-width: 936px) {
-  body:has(#main.has-section-navigation) {
-    --academic-width: min(1280px, calc((100% - 40px) / 1.31));
-  }
   #main.has-section-navigation {
     display: grid;
-    grid-template-columns: 18.93% 78.5% 12.86%;
-    column-gap: 2.57%;
-    width: var(--academic-width);
-    max-width: none;
+    grid-template-columns: 21.5% 78.5%;
     &::before, &::after { display: none; }
     > .sidebar {
       grid-column: 1;
-      grid-row: 1;
+      grid-row: 2;
       position: sticky;
       top: 80px;
       align-self: start;
-      width: auto;
       height: auto;
       max-height: calc(100vh - 120px);
       margin: 0;
-      padding: 0;
+      padding-top: 0 !important; // The theme's resize handler adds this inline.
       transform: none;
       min-width: 0;
       overflow-x: hidden;
       .author__bio, .author__urls li { white-space: normal; overflow-wrap: anywhere; }
     }
-    > .page { grid-column: 2; grid-row: 1; float: none; width: auto; margin: 0; min-width: 0; }
+    > .page { grid-column: 2; grid-row: 2; float: none; width: auto; margin: 0; min-width: 0; }
     > .section-navigation {
-      grid-column: 3;
+      grid-column: 2;
       grid-row: 1;
-      position: sticky;
-      top: 80px;
-      align-self: start;
-      max-height: calc(100vh - 120px);
-      overflow-y: auto;
+      min-width: 0;
+      margin: 0 0 1.5em;
       overflow-wrap: anywhere;
-      margin: 0;
     }
   }
 }
-@media (min-width: 925px) and (max-width: 935px) {
-  .has-section-navigation > .section-navigation { width: 78.5%; margin-left: 21.5%; clear: none; }
-}
-@media (max-width: 935px) {
+@media (max-width: 1659px) {
   .has-section-navigation .section-navigation ul { display: flex; flex-wrap: wrap; gap: 0.25em 1em; }
+}
+@media (min-width: 1660px) {
+  #main.has-section-navigation > .section-navigation {
+    grid-column: 3;
+    grid-row: 2;
+    position: sticky;
+    top: 80px;
+    align-self: start;
+    width: 160px;
+    max-height: calc(100vh - 120px);
+    overflow-y: auto;
+    margin: 0 0 0 24px;
+  }
 }
 @media print {
   .section-navigation { display: none; }

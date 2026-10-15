@@ -32,7 +32,7 @@ Qiu, Zhuoyu. "[Punching Out, Not Down: The Impact of Paid Sick Leave on Child Ma
 ## Job Market Paper
 {: class="compact-section-heading" style="border-bottom: none;" }
 
-**Gender Peer Effects and Women’s Academic Performance in Mathematics: Evidence from a U.S. University**{: .research-paper-title} <span style="font-size: 16.5px;">[<a href="/files/ClassGenderPeerEffects_WomenCollegeMath_JMP.pdf?v=406903487dc8" target="_blank" rel="noopener" aria-label="Job market paper draft (PDF, opens in a new tab)">draft</a>]</span>
+**Gender Peer Effects and Women’s Academic Performance in Mathematics: Evidence from a U.S. University**{: .research-paper-title} <span style="font-size: 16.5px;">[<a href="/files/ClassGenderPeerEffects_WomenCollegeMath_JMP.pdf?v=4955a8944c70" target="_blank" rel="noopener" aria-label="Job market paper draft (PDF, opens in a new tab)">draft</a>]</span>
 {: style="margin-bottom: 0.35em;" }
 
 <details class="publication-abstract jmp-abstract-details">
