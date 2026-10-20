@@ -159,6 +159,8 @@
     margin: 1em 0 1.5em;
 
     figure { display: block; margin: 0; min-width: 0; }
+    figure:only-child { grid-column: 1 / -1; width: 75%; justify-self: center; }
+    figure:only-child img { aspect-ratio: auto; }
     a { display: block; width: 100%; }
     img { display: block; width: 100%; height: auto; aspect-ratio: 1580 / 1133; object-fit: contain; margin-bottom: 0; cursor: zoom-in; }
     figcaption {
@@ -170,6 +172,7 @@
 
     @include breakpoint(max-width $small) {
       grid-template-columns: 1fr;
+      figure:only-child { width: 100%; }
     }
   }
 
