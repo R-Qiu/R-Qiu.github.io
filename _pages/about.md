@@ -17,6 +17,6 @@ My research focuses on applied microeconomics, with specializations in labor eco
 
 My name, Zhuoyu Qiu (<span class="name-chinese" lang="zh-Hans">丘卓瑜</span>), is pronounced “Jwo-yoo Chyo.” I also go by Rachel.
 
-You can find my CV [here](/files/Job_Market_CV.pdf?v=50f3b1a57857).
+You can find my CV [here](/files/Job_Market_CV.pdf?v=a02e970e8066).
 
 Feel free to contact me at [zhuoyu.qiu@email.ucr.edu](mailto:zhuoyu.qiu@email.ucr.edu).
